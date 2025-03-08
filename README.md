@@ -40,7 +40,7 @@ The repository includes the following Java files:
 3. Compile the Java files:
 
    ```bash
-   javac *.java
+   javac Main.java
    ```
 
 4. Run the `Main` class:
